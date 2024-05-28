@@ -1,44 +1,26 @@
-## Mohamed Ashraf Khalifa - Data Scientist & Machine Learning Engineer
+<h1 align="center">Hi 👋, I'm Mohamed Ashraf Khalifa</h1>
+<h3 align="center">Data Scientist & Machine Learning Engineer</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif">
 
-### Introduction
-Greetings! I'm Mohamed Ashraf Khalifa, a diligent professional with expertise in data science, analytics, and machine learning engineering. Armed with a solid educational background in Computer Science and Artificial Intelligence from Helwan University, I offer a blend of theoretical knowledge and practical skills to drive success in data-driven projects.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="MohamedKhalifa1" /> </p>
 
-### Skills
-- **Machine Learning**: Proficient in developing and deploying ML models for classification, regression, and clustering tasks.
-- **Deep Learning**: Skilled in utilizing deep learning techniques, with expertise in TensorFlow and PyTorch.
-- **Data Visualization**: Experienced in crafting insightful visualizations using tools like Tableau, Power BI, and Excel.
-- **Data Analysis**: Proficient in advanced statistical methods and exploratory data analysis for deriving actionable insights.
-- **Programming**: Fluent in Python, proficient in libraries like NumPy, Pandas, Scikit-learn, Matplotlib, and Seaborn.
-- **Database Management**: Well-versed in SQL for data retrieval, manipulation, and management.
-- **Version Control**: Experienced in Git for collaborative development and project management.
+- 🌱 I’m currently learning **Advanced Machine Learning Techniques**
 
-### Projects
-Here are some notable projects I've worked on:
+- 💬 Ask me about **Data Science, Machine Learning, Python**
 
-1. **Slash Product Image Classifier**
-   - Developed an efficient image classification system for product categorization.
-   - Implemented various ML algorithms and rigorously assessed model performance.
-   - ![Slash Product Image Classifier](product_classifier.jpg)
-   - [Repository Link](https://github.com/MohamedKhalifa1/Slash_Product_Image_Classifier)
+- 📫 How to reach me **m.ashraf.20162002@gmail.com**
 
-2. **Emotion Detection**
-   - Engineered a deep learning model for accurate emotion detection in images and videos.
-   - Leveraged CNNs and transfer learning techniques for superior emotion recognition.
-   - ![Emotion Detection](Emotion%20Detection.jpeg)
-   - [Repository Link](https://github.com/MohamedKhalifa1/Emotion_Detection)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/mohamed-ashraf-696873213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 
-3. **Sentiment Analysis**
-   - Conducted sentiment analysis on restaurant reviews to discern positive and negative sentiments effectively.
-   - Utilized NLP techniques for text preprocessing and feature extraction.
-   - ![Sentiment Analysis](sentimentanalysishotelgeneric-2048x803-1.jpg)
-   - [Repository Link](https://github.com/MohamedKhalifa1/Resturant_Review_Sentiment_Analysis)
+</p>
 
-### Education
-- Bachelor's Degree in Computer Science and Artificial Intelligence, Helwan University.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://numpy.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://matplotlib.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://keras.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original-wordmark.svg" alt="keras" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
-### Contact
-For professional inquiries or collaboration opportunities, feel free to connect with me:
-- [LinkedIn](https://www.linkedin.com/in/mohamed-ashraf-696873213/)
-- Email: m.ashraf.20162002@gmail.com
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&show_icons=true&locale=en&layout=compact" alt="MohamedKhalifa1" /></p>
 
-I'm enthusiastic about exploring potential collaborations and contributing to impactful projects in the realm of data science and machine learning!
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&locale=en" alt="MohamedKhalifa1" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&" alt="MohamedKhalifa1" /></p>
